@@ -4,6 +4,7 @@
 ![IDE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 Este é um simples jogo da forca desenvolvido em C. Ele permite que o jogador escolha uma categoria de palavras (animais, profissões, países, filmes ou seriados) e tenta adivinhar a palavra oculta, recebendo dicas de letras corretas e incorretas ao longo do jogo.
+<br>
 
 ## 🔹Funcionalidades
 
