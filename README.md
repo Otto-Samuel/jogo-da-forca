@@ -6,6 +6,7 @@
 Este é um simples jogo da forca desenvolvido em C. Ele permite que o jogador escolha uma categoria de palavras (animais, profissões, países, filmes ou seriados) e tenta adivinhar a palavra oculta, recebendo dicas de letras corretas e incorretas ao longo do jogo.
 <br>
 
+
 ## 🔹Funcionalidades
 
 - **Menu Principal**: O jogador pode escolher entre diferentes categorias de palavras para jogar.
